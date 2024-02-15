@@ -44,9 +44,9 @@ print("Welcome to MGS Childcare")
 # Main loop
 choice = 0
 while choice != 5:
-    print("____________")
+    print("___________________________________________________________")
     print("What would you like to do? Please choose one of items below")
-    print("____________")
+    print("___________________________________________________________")
     print()
     print("1. Drop off a Child")
     print("2. Pick up a child")
